@@ -10,7 +10,7 @@
         </parent>
         <groupId>com.mobanntechnologies</groupId>
         <artifactId>mobanntechnologies</artifactId>
-        <version>1.0-RELEASE</version>
+        <version>1.0</version>
         <packaging>war</packaging>
         <name>mobannapp</name>
         <description>Class DevOps project at mobannapp</description>
