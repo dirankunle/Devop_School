@@ -8,12 +8,12 @@
                 <version>2.2.4.RELEASE</version>
                 <relativePath/> <!-- lookup parent from repository -->
         </parent>
-        <groupId>com.theITern</groupId>
-        <artifactId>theITern</artifactId>
+        <groupId>com.mobanntechnologies</groupId>
+        <artifactId>mobanntechnologies</artifactId>
         <version>1.0-RELEASE</version>
         <packaging>war</packaging>
-        <name>theITerAPP</name>
-        <description>Class DevOps project at theITern</description>
+        <name>mobannapp</name>
+        <description>Class DevOps project at mobannapp</description>
 
         <properties>
                 <java.version>1.8</java.version>
